@@ -9,5 +9,5 @@ insecure
 twbs:bootstrap
 iron:router
 sacha:spin
-accounts-ui-bootstrap-dropdown
 accounts-password
+ian:accounts-ui-bootstrap-3
